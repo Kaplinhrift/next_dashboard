@@ -83,3 +83,5 @@ postId := typedid.NewPostID()
 - **Documentation:** https://typedid.dev/docs
 - **API Reference:** https://api.typedid.dev
 - **Examples:** https://github.com/typedid/examples
+
+# PR Merge: 2025-11-01 12:40:02
